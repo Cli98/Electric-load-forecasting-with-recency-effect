@@ -1,1 +1,1 @@
-# Paper reproduce of "Electric load forecasting with recency effect"
+# Implement code of "Electric load forecasting with recency effect"
